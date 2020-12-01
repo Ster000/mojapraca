@@ -1,0 +1,16 @@
+.pierwsze{
+  font-size: 70px;
+  font-family: 'Nerko One', cursive;
+}
+.drugie{
+  font-size: 40px;
+  font-family: 'Texturina', serif;
+}
+.trzecie{
+  background-color: white;
+  font-size: 40px;
+  font-family: 'Nerko One', cursive;
+  position: fixed;
+  top: 10px;
+  left: 30px;
+}
